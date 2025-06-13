@@ -1,8 +1,0 @@
-
-fastapi
-uvicorn
-pdfminer.six
-python-multipart
-python-docx
-textract
-nltk
